@@ -1,6 +1,6 @@
 ### Codenrock_New_Year_ML_Battle
 
-[ml_battle](source/ml_battle.jpeg)
+![ml_battle](source/ml_battle.jpeg)
 
 Страница соревнования: https://codenrock.com/contests/cdn-ny-ml-battle#/
 
